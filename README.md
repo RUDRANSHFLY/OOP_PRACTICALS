@@ -7,13 +7,19 @@ Practical List
 (1) Write a Program that displays Welcome to Java, Learning Java Now and Programming is fun
 
 (2) Write a program that solves the following equation and displays the value x and y:
-    1) 3.4x+50.2y=44.5 
-    2) 2.1x+.55y=5.9 
-    (Assume Cramer’s rule to solve equation
-     ax+by=e x=ed-bf/ad-bc
-     cx+dy=f y=af-ec/ad-bc 
-     )
+```java
+     1) 3.4x +  50.2y  = 44.5 
+     2) 2.1x +  0.55y  = 5.9 
+    
+    Assume Cramer’s rule to solve equation
+     
+     ax+by=e 
+     cx+dy=f 
+     y=af-ec/ad-bc
+     x=ed-bf/ad-bc 
+     
 
+```
 (3) Write a program that reads a number in meters, converts it to feet, and displays the result.
 
 (4) Body Mass Index (BMI) is a measure of health on weight. It can be calculated by taking your
